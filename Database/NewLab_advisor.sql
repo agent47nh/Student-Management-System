@@ -1,0 +1,17 @@
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (164032, 12121);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (154225, 15151);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (164450, 15151);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (164036, 22222);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (164560, 32343);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (164031, 33456);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (150030, 45565);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (164375, 45565);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (164452, 45565);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (164571, 45565);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (154236, 58583);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (154247, 76543);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (164183, 76766);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (164401, 76766);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (164202, 83821);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (154228, 98345);
+INSERT INTO NewLab.advisor (s_id, i_id) VALUES (164685, 98345);

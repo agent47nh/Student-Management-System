@@ -1,0 +1,330 @@
+/* Default and Mobile devices */
+body {
+    background-image: url("../images/deviceimages/professordesk375.png");
+    background-repeat: no-repeat;
+    background-color: #cfd8dc;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.logoutBtn {
+    margin: 0 auto;
+    width: 70px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: rgba(183,28,28,1);
+    color: white;
+    overflow: hidden;
+    transition: background-color .3s;
+    border-width: 0;
+    position: relative;
+    outline: none;
+    border-radius: 10px;
+    padding: 8px 10px;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.backBtn {
+    margin: 0 auto;
+    width: 70px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: rgba(10,79,149,0.9);
+    color: white;
+    overflow: hidden;
+    transition: background-color .3s;
+    border-width: 0;
+    position: relative;
+    outline: none;
+    border-radius: 10px;
+    padding: 8px 10px;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+/* Style the header */
+.header {
+    position: relative;
+    padding: 5px;
+    text-align: center;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.head1{
+    background-color: rgba(0,0,0,0.18);
+    border-radius: 10px;
+    padding: 20px;
+    font-family: Lato-Regular;
+    color: rgba(0,0,0,0.7);
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+
+/* Style the top navigation bar */
+.topnav {
+    text-align: center;
+    overflow: hidden;
+    font-family: Montserrat-Light;
+    border-radius: 15px;
+    font-size: small;
+    font-weight: bold;
+    background-color: rgba(2,99,169,0.8);
+    padding: 10px 0;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+
+/* Style the topnav links */
+.topnavLeft {
+    display: inline;
+    border-radius: 10px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 4px;
+    text-decoration: none;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.topnavMid {
+    display: inline;
+    border-radius: 10px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 3px;
+    text-decoration: none;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.topnavRight {
+    display: inline;
+    border-radius: 10px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 5px;
+    text-decoration: none;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.mainContentBack{
+    background-color: rgba(0,0,0,0.18);
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+.mainContentText{
+    font-family: Lato-Regular;
+    font-size: 20px;
+    font-weight: lighter;
+    color: rgba(255,255,255,0.7);
+    padding-top: 40px;
+}
+.mainContent {
+    position: relative;
+    font-family: Lato-Regular;
+    margin: 10px 20px 10px 20px;
+    padding: 8px;
+    width: 250px;
+    overflow: hidden;
+    border-width: 0;
+    outline: none;
+    border-radius: 15px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: rgba(2,99,189,0.9);
+    color: azure;
+    transition: background-color .3s;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+/* Change color on hover */
+.topnav a:hover {
+    background-color: rgba(241,241,241,0.1);
+}
+.topnav a:active {
+    background-color: rgba(241,241,241,0.4);
+}
+.logoutBtn:hover, .logoutBtn:focus {
+    background-color: rgba(240,85,69,1);
+}
+
+.logoutBtn > * {
+    position: relative;
+}
+.logoutBtn:before {
+    content: "";
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    padding-top: 0;
+    border-radius: 100%;
+    background-color: rgba(236, 240, 241, .3);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.logoutBtn:active:before {
+    width: 120%;
+    padding-top: 120%;
+    transition: width .2s ease-out, padding-top .2s ease-out;
+}
+.backBtn:hover, .backBtn:focus {
+    background-color: rgba(240,85,69,1);
+}
+
+.backBtn > * {
+    position: relative;
+}
+.backBtn:before {
+    content: "";
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    padding-top: 0;
+    border-radius: 100%;
+    background-color: rgba(236, 240, 241, .3);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.backBtn:active:before {
+    width: 120%;
+    padding-top: 120%;
+    transition: width .2s ease-out, padding-top .2s ease-out;
+}
+.mainContent:hover, .mainContent:focus {
+    background-color: rgba(88,165,240,1);
+}
+
+.mainContent > * {
+    position: relative;
+}
+.mainContent:before {
+    content: "";
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    padding-top: 0;
+    border-radius: 100%;
+    background-color: rgba(236, 240, 241, .3);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.mainContent:active:before {
+    width: 120%;
+    padding-top: 120%;
+    transition: width .2s ease-out, padding-top .2s ease-out;
+}
+/* For Tablet Size */
+
+@media only screen and (min-width: 768px) {
+    body {
+        background-image: url("../images/deviceimages/professordesk768.png");
+    }
+    .topnavRight{
+        padding: 14px 7%;
+    }
+    .topnavMid{
+        padding: 14px 7%;
+    }
+    .topnavLeft{
+        padding: 14px 7%;
+    }
+    .topnav{
+        margin-top: 15px;
+        font-size: 15px;
+    }
+    .mainContentBack{
+        margin: 50px 20%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .mainContent{
+        font-size: 15px;
+    }
+    .head1{
+        font-size: 50px;
+    }
+}
+@media only screen and (min-width: 1000px) {
+    body{
+        background-image: url("../images/professordesk.png");
+    }
+    .head1{
+        font-size: 60px;
+        margin: 0 20%;
+    }
+    .topnav{
+        margin-right: 5%;
+        margin-left: 4%;
+        font-size: 15px;
+    }
+    .mainContentBack{
+        margin: 50px 30%;
+    }
+    .mainContent{
+        font-size: 18px;
+    }
+}
+@media only screen and (min-width: 1440px) {
+    .mainContentBack{
+        margin: 50px 40%;
+    }
+}
+
+
+/* FONT FACE TYPES AND TRANSITION KEYFRAMES */
+@font-face {
+    font-family: Montserrat-SemiBold;
+    src: url("../fonts/Montserrat/Montserrat-SemiBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat-Light;
+    src: url("../fonts/Montserrat/Montserrat-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: Lato-Regular;
+    src: url("../fonts/Lato/Lato-Regular.ttf") format("truetype");
+}
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein { /* Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+/* END OF FONT FACE AND TRANSITION KEYFRAMES */

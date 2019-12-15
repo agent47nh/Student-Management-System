@@ -1,0 +1,209 @@
+/* Default and Mobile devices */
+.logoutBtn {
+    position: relative;
+    float: right;
+    margin-right: 3px;
+    font-family: Lato-Regular;
+    padding: 10px;
+    width: 70px;
+    border-width: 0;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: rgba(183,28,28,1);
+    color: white;
+    transition: background-color .3s;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+body{
+    background-image: url("../images/deviceimages/Library375.png");
+    background-repeat: no-repeat;
+    background-color: #cfd8dc;
+    width: auto;
+}
+div.aHead1{
+    background-color: rgba(97,97,97,0.4);
+    border-radius: 20px;
+    color: rgba(238,238,238,0.9);
+    font-family: Lato-Regular;
+    font-size: large;
+    margin: 50px auto 20px;
+    text-align: center;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+div.BackBox{
+    margin: 10px auto;
+    padding: 15px;
+    background-color: rgba(97,97,97,0.4);
+    border-radius: 20px;
+    text-align: center;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.buttons {
+    position: relative;
+    font-family: Lato-Regular;
+    margin: 10px 20px 10px 20px;
+    padding: 10px;
+    width: 250px;
+    overflow: hidden;
+    border-width: 0;
+    outline: none;
+    border-radius: 15px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: rgba(244,67,54,0.9);
+    color: azure;
+    transition: background-color .3s;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.logoutBtn:hover, .logoutBtn:focus {
+    background-color: rgba(240,85,69,1);
+}
+
+.logoutBtn > * {
+    position: relative;
+}
+.logoutBtn:active {
+    background-color: rgba(127,0,0,1);
+}
+.buttons:hover, .buttons:focus {
+    background-color: rgba(255,111,77,1);
+}
+
+.buttons > * {
+    position: relative;
+}
+.buttons:before {
+    content: "";
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    padding-top: 0;
+    border-radius: 100%;
+    background-color: rgba(236, 240, 241, .3);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.buttons:active:before {
+    width: 120%;
+    padding-top: 120%;
+    transition: width .2s ease-out, padding-top .2s ease-out;
+}
+/* For Tablet Size */
+
+@media only screen and (min-width: 768px) {
+    body{
+        background-image: url("../images/deviceimages/Library768.png");
+    }
+    div.aHead1{
+        margin-top: 150px;
+        font-size: xx-large;
+        width: auto;
+        height: auto;
+        border-radius: 10px;
+    }
+    .BackBox{
+        width: 40%;
+    }
+    .logoutBtn{
+        margin-right: 5px;
+        float: right;
+    }
+}
+@media only screen and (min-width: 1000px) {
+    body{
+        background-image: url("../images/library19201080.png");
+    }
+    div.aHead1{
+        margin-top: 100px;
+        font-size: 2.5em;
+        width: 90%;
+        height: auto;
+        border-radius: 10px;
+    }
+    div.BackBox{
+        width: 30%;
+        border-radius: 10px;
+    }
+    .logoutBtn{
+        margin: 20px;
+        width: 90px;
+        float: right;
+    }
+}
+@media only screen and (min-width: 1440px) {
+    div.aHead1{
+        width: 80%;
+    }
+    div.BackBox{
+        width: 25%;
+        border-radius: 15px;
+    }
+    .logoutBtn{
+        margin: 20px;
+        width: 90px;
+        float: right;
+    }
+}
+@media only screen and (min-width: 1920px) {
+    div.BackBox{
+        width: fit-content;
+        border-radius: 15px;
+    }
+    .logoutBtn{
+        margin: 20px;
+        width: 90px;
+        float: right;
+    }
+}
+
+/* FONT FACE TYPES AND TRANSITION KEYFRAMES */
+@font-face {
+    font-family: Montserrat-SemiBold;
+    src: url("../fonts/Montserrat/Montserrat-SemiBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat-Light;
+    src: url("../fonts/Montserrat/Montserrat-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: Lato-Regular;
+    src: url("../fonts/Lato/Lato-Regular.ttf") format("truetype");
+}
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein { /* Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+/* END OF FONT FACE AND TRANSITION KEYFRAMES */

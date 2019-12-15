@@ -1,0 +1,13 @@
+@import url("studentProfile.CD.css");
+@import url("ErrorBoxes.css");
+
+.error2{
+    background-color: rgba(190,47,47,0.8);
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: white;
+    font-size: medium;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}

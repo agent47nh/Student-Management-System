@@ -1,0 +1,125 @@
+.buttonStyle1{
+    display: inline-block;
+    position: relative;
+    border-radius: 10px;
+    color: white;
+    margin: auto 10px;
+    padding: 10px 20px;
+    font-family: Lato-Regular;
+    font-size: large;
+    overflow: hidden;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: rgba(2,99,169,0.8);
+    text-decoration: none;
+    transition: background-color .3s;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.tableContainer{
+    margin: auto 10%;
+    text-align: center;
+    border-radius: 10px;
+}
+.tableText{
+    padding: 20px;
+    text-align: center;
+    color: rgba(0,0,0,.7);
+    font-family: Lato-Regular;
+    font-size: large;
+}
+table{
+    display: inline-block;
+    width: border-box;
+    border-collapse: collapse;
+
+}
+th{
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+    background-color: rgba(255,255,255,0.5);
+    border-collapse: collapse;
+}
+tr{
+    background-color: rgba(185,185,185,0.8);
+}
+tr:nth-child(odd){
+    background-color: rgba(125,125,125,0.8);
+}
+tr:hover, tr:active{
+    background-color: rgba(105,105,105,1);
+}
+.buttonStyle1:hover, .buttonStyle1:focus {
+    background-color: rgba(98,216,96,1);
+}
+
+.buttonStyle1 > * {
+    position: relative;
+}
+.buttonStyle1:before {
+    content: "";
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    padding-top: 0;
+    border-radius: 100%;
+    background-color: rgba(236, 240, 241, .3);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.buttonStyle1:active:before {
+    width: 120%;
+    padding-top: 120%;
+    transition: width .2s ease-out, padding-top .2s ease-out;
+}
+
+@media only screen and (min-width: 768px) {
+    .tableContainer{
+        text-align: center;
+        margin: auto 25%;
+        width: 50%;
+    }
+}
+
+/* FONT FACE TYPES AND TRANSITION KEYFRAMES */
+@font-face {
+    font-family: Montserrat-SemiBold;
+    src: url("../fonts/Montserrat/Montserrat-SemiBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat-Light;
+    src: url("../fonts/Montserrat/Montserrat-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: Lato-Regular;
+    src: url("../fonts/Lato/Lato-Regular.ttf") format("truetype");
+}
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein { /* Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}

@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoTestManager">
+    <enabled-run-configurations>
+      <run-configuration type="PHPUnitRunConfigurationType" name="ProjectAlpha" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ed7ca3a-1d98-4e68-a9cc-5eba9ce38402" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ProjectAlpha$ProjectAlpha.xml" NAME="ProjectAlpha Coverage Results" MODIFIED="1544531654513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ProjectAlpha" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.6501225">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/includes/login.inc.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2024">
+                  <caret line="88" column="4" selection-start-line="88" selection-start-column="4" selection-end-line="89" selection-end-column="11" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/php/adminAssignToStudent.ADM.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="337">
+                  <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+                  <folding>
+                    <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#input#0;n#form#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/php/adminAssignToInstructor.ADM.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="257">
+                  <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+                  <folding>
+                    <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/includes/addDataFunction.inc.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="314">
+                  <caret line="167" column="26" selection-start-line="167" selection-start-column="26" selection-end-line="167" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>textbo</find>
+      <find>GET</find>
+      <find>POST</find>
+      <find>memb_name</find>
+      <find>button</find>
+      <find>Ba</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/php/studentProfile.CDTue.STU.php" />
+        <option value="$PROJECT_DIR$/php/studentProfile.CDWed.STU.php" />
+        <option value="$PROJECT_DIR$/php/studentProfile.CDThu.STU.php" />
+        <option value="$PROJECT_DIR$/php/studentProfile.CDFri.php" />
+        <option value="$PROJECT_DIR$/php/studentProfile.CDSat.STU.php" />
+        <option value="$PROJECT_DIR$/php/studentProfile.CDSun.STU.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c016ed5a-ed2f-419d-b038-ae52750d35f0/console.sql" />
+        <option value="$PROJECT_DIR$/stylesheets/studentProfile.CDDays.css" />
+        <option value="$PROJECT_DIR$/includes/changeUsername.inc.php" />
+        <option value="$PROJECT_DIR$/stylesheets/studentChangeUsername.css" />
+        <option value="$PROJECT_DIR$/stylesheets/ErrorBoxes.css" />
+        <option value="$PROJECT_DIR$/includes/login.inc.php" />
+        <option value="$PROJECT_DIR$/php/instructorAC.INS.php" />
+        <option value="$PROJECT_DIR$/stylesheets/studentChange.css" />
+        <option value="$PROJECT_DIR$/stylesheets/instructorChange.css" />
+        <option value="$PROJECT_DIR$/includes/changeUserN.inc.php" />
+        <option value="$PROJECT_DIR$/includes/changePass.inc.php" />
+        <option value="$PROJECT_DIR$/stylesheets/instructorProfile.css" />
+        <option value="$PROJECT_DIR$/stylesheets/instructorLoS.css" />
+        <option value="$PROJECT_DIR$/php/instructorAssignedCourses.DoCA.INS.php" />
+        <option value="$PROJECT_DIR$/php/instructorAccout.PROF.INS.php" />
+        <option value="$PROJECT_DIR$/php/adminLanding.php" />
+        <option value="$PROJECT_DIR$/php/instructorAccount.CU.INS.php" />
+        <option value="$PROJECT_DIR$/php/instructorAccount.CP.INS.php" />
+        <option value="$PROJECT_DIR$/php/instructorAccount.PROF.INS.php" />
+        <option value="$PROJECT_DIR$/php/instructorAssignedCourses.INS.php" />
+        <option value="$PROJECT_DIR$/php/instructorLoS.CRS.INS.php" />
+        <option value="$PROJECT_DIR$/php/instructorLoS.INS.php" />
+        <option value="$PROJECT_DIR$/php/studentAccount.CP.STU.php" />
+        <option value="$PROJECT_DIR$/php/studentAccount.CU.STU.php" />
+        <option value="$PROJECT_DIR$/php/studentCourses.CSD.STU.php" />
+        <option value="$PROJECT_DIR$/php/instructorAccount.INS.php" />
+        <option value="$PROJECT_DIR$/php/instructorLanding.INS.php" />
+        <option value="$PROJECT_DIR$/php/instructorLoS.ADV.INS.php" />
+        <option value="$PROJECT_DIR$/php/studentAccount.STU.php" />
+        <option value="$PROJECT_DIR$/php/studentCourses.STU.php" />
+        <option value="$PROJECT_DIR$/php/studentLanding.STU.php" />
+        <option value="$PROJECT_DIR$/php/studentProfile.STU.php" />
+        <option value="$PROJECT_DIR$/php/studentProfile.BI.STU.php" />
+        <option value="$PROJECT_DIR$/php/studentProfile.CD.STU.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/06892026-f0a6-4825-9092-7308225bf6ac/console.sql" />
+        <option value="$PROJECT_DIR$/php/adminAddInstructor.INS.php" />
+        <option value="$PROJECT_DIR$/stylesheets/adminAC.css" />
+        <option value="$PROJECT_DIR$/php/adminAddInstructor.ADM.php" />
+        <option value="$PROJECT_DIR$/php/adminAddCourse.ADM.php" />
+        <option value="$PROJECT_DIR$/php/adminAssignToInstructor.INS.php" />
+        <option value="$PROJECT_DIR$/php/adminAddStudent.ADM.php" />
+        <option value="$PROJECT_DIR$/php/adminLanding.ADM.php" />
+        <option value="$PROJECT_DIR$/php/adminAssignToStudent.ADM.php" />
+        <option value="$PROJECT_DIR$/php/adminAssignToInstructor.ADM.php" />
+        <option value="$PROJECT_DIR$/includes/addDataFunction.inc.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="/usr/share/pear" />
+      <path value="/usr/share/php" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjectAlpha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectAlpha" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectAlpha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/php/Student" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProjectAlpha" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.ProjectAlpha" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ed7ca3a-1d98-4e68-a9cc-5eba9ce38402" name="Default Changelist" comment="" />
+      <created>1544202002995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544202002995</updated>
+      <workItem from="1544202004134" duration="1324000" />
+      <workItem from="1544206562110" duration="1580000" />
+      <workItem from="1544208197834" duration="12769000" />
+      <workItem from="1544258405563" duration="5590000" />
+      <workItem from="1544287919854" duration="2622000" />
+      <workItem from="1544314050352" duration="623000" />
+      <workItem from="1544315562248" duration="1278000" />
+      <workItem from="1544361673995" duration="5666000" />
+      <workItem from="1544370818047" duration="1938000" />
+      <workItem from="1544448877516" duration="93000" />
+      <workItem from="1544448999332" duration="15726000" />
+      <workItem from="1544481664322" duration="2233000" />
+      <workItem from="1544531470193" duration="478000" />
+      <workItem from="1544532251507" duration="17821000" />
+      <workItem from="1544599092183" duration="11649000" />
+      <workItem from="1544640737445" duration="3975000" />
+      <workItem from="1544683830530" duration="22548000" />
+      <workItem from="1544725526375" duration="2605000" />
+      <workItem from="1544731158145" duration="2934000" />
+      <workItem from="1544735676481" duration="72000" />
+      <workItem from="1544777878138" duration="5348000" />
+      <workItem from="1544801843291" duration="3539000" />
+      <workItem from="1544812958282" duration="4689000" />
+      <workItem from="1544870540482" duration="14588000" />
+      <workItem from="1544896873571" duration="78000" />
+      <workItem from="1544916122482" duration="3353000" />
+      <workItem from="1544921260734" duration="1032000" />
+      <workItem from="1544951943145" duration="2464000" />
+      <workItem from="1544968936466" duration="191000" />
+      <workItem from="1544975790261" duration="1744000" />
+      <workItem from="1544995852287" duration="3978000" />
+      <workItem from="1545135429332" duration="5802000" />
+      <workItem from="1545240801167" duration="13172000" />
+      <workItem from="1545321786444" duration="231000" />
+      <workItem from="1545411299600" duration="684000" />
+      <workItem from="1545412010039" duration="16853000" />
+      <workItem from="1545510060189" duration="1513000" />
+      <workItem from="1545551673495" duration="20747000" />
+      <workItem from="1545660703676" duration="20261000" />
+      <workItem from="1545735626696" duration="5486000" />
+      <workItem from="1545760048916" duration="887000" />
+      <workItem from="1545774012338" duration="43000" />
+      <workItem from="1545774080079" duration="575000" />
+      <workItem from="1545774994941" duration="3109000" />
+      <workItem from="1545815943682" duration="11067000" />
+      <workItem from="1545845865273" duration="887000" />
+      <workItem from="1545862111367" duration="3200000" />
+      <workItem from="1545894523860" duration="2344000" />
+      <workItem from="1545922567028" duration="11446000" />
+      <workItem from="1545947292710" duration="5825000" />
+      <workItem from="1545987725092" duration="7786000" />
+      <workItem from="1546012578534" duration="16767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProjectAlpha - 2018.12.11 at 14h 34m 14s.xml">
+      <configuration name="ProjectAlpha" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ProjectAlpha - 2018.12.11 at 14h 34m 38s.xml">
+      <configuration name="ProjectAlpha" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ProjectAlpha - 2018.12.12 at 12h 37m 46s.xml">
+      <configuration name="ProjectAlpha" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ProjectAlpha - 2018.12.12 at 12h 38m 52s.xml">
+      <configuration name="ProjectAlpha" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ProjectAlpha - 2018.12.13 at 08h 54m 14s.xml">
+      <configuration name="ProjectAlpha" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ProjectAlpha - 2018.12.13 at 14h 08m 36s.xml">
+      <configuration name="ProjectAlpha" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ProjectAlpha - 2018.12.13 at 14h 08m 40s.xml">
+      <configuration name="ProjectAlpha" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ProjectAlpha - 2018.12.13 at 21h 27m 06s.xml">
+      <configuration name="ProjectAlpha" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ProjectAlpha - 2018.12.13 at 21h 36m 24s.xml">
+      <configuration name="ProjectAlpha" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ProjectAlpha - 2018.12.13 at 21h 36m 32s.xml">
+      <configuration name="ProjectAlpha" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="enabled" value="true" />
+    <option name="totallyTimeSpent" value="302982000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49671054" visible="true" weight="0.12727273" />
+      <window_info id="Structure" order="1" sideWeight="0.50328946" side_tool="true" weight="0.21176471" />
+      <window_info id="Favorites" order="2" sideWeight="0.50328946" side_tool="true" weight="0.21176471" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946523" weight="0.32928178" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946523" weight="0.32928178" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3281768" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="9" sideWeight="0.8213904" weight="0.31823203" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3281768" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.17860962" side_tool="true" weight="0.3281768" />
+      <window_info anchor="bottom" id="Database Console" order="12" sideWeight="0.4983957" weight="0.3071823" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" weight="0.32928178" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.11122995" />
+      <window_info anchor="right" id="Google Cloud Storage" order="4" weight="0.32994652" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <window_info anchor="right" id="Time Tracking" order="6" weight="0.15080214" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49671054" visible="true" weight="0.12727273" />
+      <window_info id="Structure" order="1" sideWeight="0.50328946" side_tool="true" weight="0.21176471" />
+      <window_info id="Favorites" order="2" sideWeight="0.50328946" side_tool="true" weight="0.21176471" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946523" weight="0.32928178" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946523" weight="0.32928178" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3281768" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="9" sideWeight="0.8213904" weight="0.31823203" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3281768" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.17860962" side_tool="true" weight="0.3281768" />
+      <window_info anchor="bottom" id="Database Console" order="12" sideWeight="0.4983957" weight="0.3071823" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" weight="0.32928178" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.11122995" />
+      <window_info anchor="right" id="Google Cloud Storage" order="4" weight="0.32994652" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <window_info anchor="right" id="Time Tracking" order="6" weight="0.15080214" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/stylesheets/studentChange.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="61" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/ErrorBoxes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/student.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="67" column="4" selection-start-line="67" selection-end-line="67" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/studentProfile.BI.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="140" column="1" lean-forward="true" selection-start-line="120" selection-end-line="140" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/studentProfile.CDFri.STU.php" />
+    <entry file="file://$PROJECT_DIR$/php/studentProfile.CDMon.STU.php" />
+    <entry file="file://$PROJECT_DIR$/php/studentProfile.CDSat.STU.php" />
+    <entry file="file://$PROJECT_DIR$/php/studentProfile.CDSun.STU.php" />
+    <entry file="file://$PROJECT_DIR$/php/studentProfile.CDThu.STU.php" />
+    <entry file="file://$PROJECT_DIR$/php/studentProfile.CDTue.STU.php" />
+    <entry file="file://$PROJECT_DIR$/php/studentProfile.CDWed.STU.php" />
+    <entry file="file://$PROJECT_DIR$/stylesheets/instructorLoS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/changePass.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/instructorAssignedCourses.DoCA.INS.php" />
+    <entry file="file://$PROJECT_DIR$/stylesheets/studentProfile.CDDays.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/studentProfile.CD.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="166" column="4" selection-start-line="166" selection-start-column="4" selection-end-line="166" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/instructorAccount.CU.INS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/instructorAccount.INS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="60" column="111" selection-start-line="60" selection-start-column="111" selection-end-line="60" selection-end-column="111" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/instructorAccount.PROF.INS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/instructorAssignedCourses.INS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/instructorLoS.ADV.INS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/instructorLoS.INS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/instructorLanding.INS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="39" column="110" selection-start-line="39" selection-start-column="110" selection-end-line="39" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/studentCourses.CSD.STU.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1687">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/studentCourses.STU.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="41" column="4" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/studentProfile.STU.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/studentLanding.STU.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="40" column="102" selection-start-line="40" selection-start-column="102" selection-end-line="40" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/studentProfile.BI.STU.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1035">
+          <caret line="42" column="66" selection-start-line="42" selection-start-column="66" selection-end-line="42" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/studentProfile.CD.STU.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="27" column="67" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/instructor.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3657" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/instructorChange.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/instructorProfile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="47" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/studentAccount.CP.STU.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/studentAccount.CU.STU.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/changeUserName.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/instructorLoS.CRS.INS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="62" column="8" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="65" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1679">
+          <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/instructorAccount.CP.INS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/06892026-f0a6-4825-9092-7308225bf6ac/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/adminAC.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="144" column="1" selection-start-line="144" selection-start-column="1" selection-end-line="144" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/studentAccount.STU.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="50" column="81" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="81" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/adminAddInstructor.ADM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="82" column="87" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="87" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#form#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/adminAddCourse.ADM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="70" column="73" selection-start-line="70" selection-start-column="73" selection-end-line="70" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/adminLanding.ADM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="45" column="60" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/adminAddStudent.ADM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/adminAssignToInstructor.ADM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/adminAssignToStudent.ADM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/login.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2024">
+          <caret line="88" column="4" selection-start-line="88" selection-start-column="4" selection-end-line="89" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/addDataFunction.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="167" column="26" selection-start-line="167" selection-start-column="26" selection-end-line="167" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

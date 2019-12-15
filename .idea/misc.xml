@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectResources">
+    <resource url="https://fonts.googleapis.com/css?family=Montserrat" location="$PROJECT_DIR$" />
+    <resource url="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" location="$PROJECT_DIR$" />
+    <resource url="https://fonts.googleapis.com/css?family=Open+Sans" location="$PROJECT_DIR$" />
+  </component>
+</project>

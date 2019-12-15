@@ -1,0 +1,184 @@
+label{
+    margin-left: 5px;
+    font-family: Lato-Regular;
+    font-size: large;
+    color: rgba(255,255,255,0.6);
+}
+
+.dropDown{
+    background-color: rgba(250,250,250,0.55);
+    border: 2px solid rgba(66,66,66,0.6);
+    border-radius: 10px;
+    font-family: Lato-Regular;
+    font-weight: bolder;
+    color: rgba(0,0,0,0.7);
+    height: 30px;
+    margin: 5px auto 0;
+    outline-width: 0;
+    padding-left: 10px;
+    position:relative;
+    text-align: left;
+    width: auto;
+    z-index: 0;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+
+.logoutBtn {
+    margin: 0 auto;
+    width: 70px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: rgba(183,28,28,1);
+    color: white;
+    overflow: hidden;
+    transition: background-color .3s;
+    border-width: 0;
+    position: relative;
+    outline: none;
+    border-radius: 10px;
+    padding: 8px 10px;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.backBtn {
+    margin: 0 auto;
+    width: 70px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: rgba(229,79,80,0.9);
+    color: white;
+    overflow: hidden;
+    transition: background-color .3s;
+    border-width: 0;
+    position: relative;
+    outline: none;
+    border-radius: 10px;
+    padding: 8px 10px;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.inputBox{
+    background-color: rgba(250,250,250,0.55);
+    border: 2px solid rgba(66,66,66,0.6);
+    border-radius: 10px;
+    font-family: Lato-Regular;
+    font-weight: bolder;
+    color: black;
+    height: 30px;
+    margin: 5px auto 0;
+    outline-width: 0;
+    padding-left: 10px;
+    position:relative;
+    text-align: left;
+    width: 270px;
+    z-index: 0;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+
+
+.backBtn:hover, .backBtn:focus {
+    background-color: rgba(240,85,69,1);
+}
+
+.backBtn > * {
+    position: relative;
+}
+.backBtn:before {
+    content: "";
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    padding-top: 0;
+    border-radius: 100%;
+    background-color: rgba(236, 240, 241, .3);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.backBtn:active:before {
+    width: 120%;
+    padding-top: 120%;
+    transition: width .2s ease-out, padding-top .2s ease-out;
+}
+
+.logoutBtn:hover, .logoutBtn:focus {
+    background-color: rgba(240,85,69,1);
+}
+
+.logoutBtn > * {
+    position: relative;
+}
+.logoutBtn:before {
+    content: "";
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    padding-top: 0;
+    border-radius: 100%;
+    background-color: rgba(236, 240, 241, .3);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.logoutBtn:active:before {
+    width: 120%;
+    padding-top: 120%;
+    transition: width .2s ease-out, padding-top .2s ease-out;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* FONT FACE TYPES AND TRANSITION KEYFRAMES */
+@font-face {
+    font-family: Montserrat-SemiBold;
+    src: url("../fonts/Montserrat/Montserrat-SemiBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat-Light;
+    src: url("../fonts/Montserrat/Montserrat-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: Lato-Regular;
+    src: url("../fonts/Lato/Lato-Regular.ttf") format("truetype");
+}
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein { /* Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+/* END OF FONT FACE AND TRANSITION KEYFRAMES */

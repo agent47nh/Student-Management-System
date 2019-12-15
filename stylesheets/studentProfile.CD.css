@@ -1,0 +1,362 @@
+/* Default and Mobile devices */
+body {
+    background-image: url("../images/deviceimages/StudentLab375.png");
+    background-repeat: no-repeat;
+    background-color: #cfd8dc;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.logoutBtn {
+    margin: 0 auto;
+    width: 70px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: rgba(183,28,28,1);
+    color: white;
+    overflow: hidden;
+    transition: background-color .3s;
+    border-width: 0;
+    position: relative;
+    outline: none;
+    border-radius: 10px;
+    padding: 8px 10px;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.backBtn {
+    margin: 0 auto;
+    width: 70px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: rgba(66,145,60,0.7);
+    color: white;
+    overflow: hidden;
+    transition: background-color .3s;
+    border-width: 0;
+    position: relative;
+    outline: none;
+    border-radius: 10px;
+    padding: 8px 10px;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+/* Style the header */
+.header {
+    position: relative;
+    padding: 5px;
+    text-align: center;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.head1{
+    background-color: rgba(0,0,0,0.18);
+    border-radius: 10px;
+    padding: 20px;
+    font-family: Lato-Regular;
+    color: rgba(0,0,0,0.7);
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+
+/* Style the top navigation bar */
+.topnav {
+    text-align: center;
+    overflow: hidden;
+    font-family: Montserrat-Light;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    font-size: small;
+    font-weight: bold;
+    background-color: rgba(67,160,71,0.9);
+    padding: 10px 0;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+
+/* Style the topnav links */
+.topnavLeft {
+    display: inline;
+    border-radius: 10px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 4px;
+    text-decoration: none;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.topnavMid {
+    display: inline;
+    border-radius: 10px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 25px;
+    text-decoration: none;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.topnavRight {
+    display: inline;
+    border-radius: 10px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 5px;
+    text-decoration: none;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+/* START: Here is the main data design of the page */
+
+#sideBar{
+    margin: auto;
+    display: flex;
+    text-align: center;
+}
+.buttons {
+    position: relative;
+    font-family: Lato-Regular;
+    margin: 5px 20px 10px 50px;
+    padding: 10px;
+    width: fit-content;
+    height: fit-content;
+    font-size: small;
+    overflow: hidden;
+    border-width: 0;
+    outline: none;
+    text-decoration: none;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: rgba(76,175,80,0.9);
+    color: azure;
+    transition: background-color .3s;
+    animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+}
+.mainContentBack{
+    display: block;
+    background-color: rgba(0,10,18,0.8);
+    text-align: left;
+    border-radius: 10px;
+    padding: 10px 30px;
+    margin: 20px auto;
+}
+
+.mainContentText {
+    display: block;
+    line-height: 30px;
+    text-align: center;
+    font-family: Lato-Regular;
+    font-size: 15px;
+    font-weight: lighter;
+    margin: 15px auto;
+    color: rgba(255,255,255, 0.9);
+}
+.buttonStyle1{
+    padding: 4px;
+    padding-left: 7px;
+    text-decoration: none;
+    color: rgba(255,255,255, 0.9);
+    border-radius: 4px;
+    background-color: rgba(76,175,80,0.9);
+}
+table{
+
+}
+
+/* END: Here is the main data design of the page */
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: rgba(241,241,241,0.1);
+}
+.topnav a:active {
+    background-color: rgba(241,241,241,0.4);
+}
+.logoutBtn:hover, .logoutBtn:focus {
+    background-color: rgba(240,85,69,1);
+}
+
+.logoutBtn > * {
+    position: relative;
+}
+.logoutBtn:before {
+    content: "";
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    padding-top: 0;
+    border-radius: 100%;
+    background-color: rgba(236, 240, 241, .3);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.logoutBtn:active:before {
+    width: 120%;
+    padding-top: 120%;
+    transition: width .2s ease-out, padding-top .2s ease-out;
+}
+.backBtn:hover, .backBtn:focus {
+    background-color: rgba(240,85,69,1);
+}
+
+.backBtn > * {
+    position: relative;
+}
+.backBtn:before {
+    content: "";
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    padding-top: 0;
+    border-radius: 100%;
+    background-color: rgba(236, 240, 241, .3);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.backBtn:active:before {
+    width: 120%;
+    padding-top: 120%;
+    transition: width .2s ease-out, padding-top .2s ease-out;
+}
+.buttons:hover, .buttons:focus {
+    background-color: rgba(98,216,96,1);
+}
+
+.buttons > * {
+    position: relative;
+}
+.buttons:before {
+    content: "";
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    padding-top: 0;
+    border-radius: 100%;
+    background-color: rgba(236, 240, 241, .3);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.buttons:active:before {
+    width: 120%;
+    padding-top: 120%;
+    transition: width .2s ease-out, padding-top .2s ease-out;
+}
+/* For Tablet Size */
+
+@media only screen and (min-width: 768px) {
+    body {
+        background-image: url("../images/deviceimages/StudentLab768.png");
+    }
+    .topnavRight{
+        padding: 14px 10%;
+    }
+    .topnavMid{
+        padding: 14px 10%;
+    }
+    .topnavLeft{
+        padding: 14px 10%;
+    }
+    .topnav{
+        margin-top: 15px;
+        font-size: 15px;
+    }
+    .head1{
+        font-size: 50px;
+    }
+    .mainContentBack{
+        margin: 40px 20%;
+    }
+    #sideBar{
+        margin: 30px 25%;
+    }
+    .buttons{
+        font-size: medium;
+    }
+}
+@media only screen and (min-width: 1000px) {
+    body{
+        background-image: url("../images/StudentLab.png");
+    }
+    .head1{
+        font-size: 60px;
+        margin: 0 20%;
+    }
+    .topnav{
+        margin-right: 5%;
+        margin-left: 7%;
+        font-size: 15px;
+    }
+    #sideBar{
+        margin: 30px 30%;
+    }
+}
+@media only screen and (min-width: 1440px) {
+    #sideBar{
+        margin: 30px 40%;
+    }
+    .mainContentBack{
+        margin: 40px 35%;
+    }
+}
+
+
+/* FONT FACE TYPES AND TRANSITION KEYFRAMES */
+@font-face {
+    font-family: Montserrat-SemiBold;
+    src: url("../fonts/Montserrat/Montserrat-SemiBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat-Light;
+    src: url("../fonts/Montserrat/Montserrat-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: Lato-Regular;
+    src: url("../fonts/Lato/Lato-Regular.ttf") format("truetype");
+}
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein { /* Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+/* END OF FONT FACE AND TRANSITION KEYFRAMES */

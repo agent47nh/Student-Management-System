@@ -1,0 +1,10 @@
+INSERT INTO NewLab.prereq (course_id, prereq_id) VALUES ('BIO-301', 'BIO-101');
+INSERT INTO NewLab.prereq (course_id, prereq_id) VALUES ('BIO-399', 'BIO-101');
+INSERT INTO NewLab.prereq (course_id, prereq_id) VALUES ('BIO-132', 'BIO-301');
+INSERT INTO NewLab.prereq (course_id, prereq_id) VALUES ('CS-190', 'CS-101');
+INSERT INTO NewLab.prereq (course_id, prereq_id) VALUES ('CS-315', 'CS-101');
+INSERT INTO NewLab.prereq (course_id, prereq_id) VALUES ('CS-319', 'CS-101');
+INSERT INTO NewLab.prereq (course_id, prereq_id) VALUES ('CS-347', 'CS-101');
+INSERT INTO NewLab.prereq (course_id, prereq_id) VALUES ('HIS-351', 'HIS-135');
+INSERT INTO NewLab.prereq (course_id, prereq_id) VALUES ('MU-439', 'MU-199');
+INSERT INTO NewLab.prereq (course_id, prereq_id) VALUES ('EE-181', 'PHY-101');

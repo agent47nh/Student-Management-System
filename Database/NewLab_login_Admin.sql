@@ -1,0 +1,1 @@
+INSERT INTO NewLab.login_Admin (member_name, member_id, password, Name) VALUES ('naimul23', 1, 'HelloWorld+00', 'Naimul Hasan');
